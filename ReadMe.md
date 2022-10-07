@@ -18,7 +18,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
  <img alt="Data Structures" src="https://img.shields.io/badge/data_structures-%23009500.svg?&style=for-the-badge&logo=data_structures&logoColor=white"/> <img alt="Algorithms" src="https://img.shields.io/badge/algorithms-%230010D5.svg?&style=for-the-badge&logo=algorithms&logoColor=white" />  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/object_oriented_programming-%230095D5.svg?&style=for-the-badge&logo=object_oriented_programming&logoColor=white" /> 
 
 # Coding Profiles </>
-- **LeetCode** - Solved 400+ questions | [Profile Link](https://leetcode.com/aditidey1610/)
+- **LeetCode** - Solved 500+ questions | [Profile Link](https://leetcode.com/aditidey1610/)
 - **GeeksForGeeks** - Solved 200+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/user_dkbj/profile/)
 
 # 📊 GitHub Stats:
