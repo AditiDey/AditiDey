@@ -8,7 +8,11 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 ## 🌐 :Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-dey-a9a2661a9/) 
 <br>
-
+## Resume
+<h3 align = "center">
+<a href="[https://drive.google.com/file/d/1IcMXeMedm0oqpuSO4_6mLN78A9OIBZ5F/view?usp=sharing)](https://drive.google.com/file/d/1jOS3xVmzdMdN7wcbaAzlaZG4oBUf9_8t/view?usp=drivesdk)">
+<img src="[https://drive.google.com/uc?export=view&id=1qIp9Xoyq4i9UPm-a7PnLNOuxxBzQLiUk](https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view?usp=sharing)" style="width: auto; max-width: 100%; height: auto" title="Click to view pdf" />
+</h3>
 
 # 💻 Skills:![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 # 📊 GitHub Stats:
