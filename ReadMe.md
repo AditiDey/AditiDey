@@ -1,6 +1,6 @@
 ## Hi I'm Aditi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<img src="[https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png](https://media.discordapp.net/attachments/1026675609369325649/1027976617215135755/unknown.png)" width="300"/>
+<img src="https://media.discordapp.net/attachments/1026675609369325649/1027976617215135755/unknown.png" width="300"/>
 
 # 💫 About Me:
 I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in Information Technology ,graduating in year 2023. I have an overall 9.02 gpa till 6th semester. I am an aspiring  Software Developer.I have made few projects on Web Development and Machine Learning .I am comfortable with C++ for Data Structures and Algorithms. I have solved over 1000+ questions on leetcode and geeksforgeeks.
