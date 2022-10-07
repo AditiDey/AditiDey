@@ -3,7 +3,7 @@
 <img src="[https://media.discordapp.net/attachments/1026675609369325649/1027946657465241600/unknown.png](https://media.discordapp.net/attachments/1026675609369325649/1027976617215135755/unknown.png)"/>
 
 # 💫 About Me:
-I am Aditi Dey
+I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in Information Technology ,graduating in year 2023.I have an overall 9.02 gpa till 6th semester.I am an aspiring  Software Developer.I have made few projects on Web Development and Machine Learning .I am comfortable with C++ for Data Structures and Algorithms .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-dey-a9a2661a9/) 
