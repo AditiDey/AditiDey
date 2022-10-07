@@ -19,7 +19,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 
 # Coding Profiles </>
 - **LeetCode** - Solved 500+ questions | [Profile Link](https://leetcode.com/aditidey1610/)
-- **GeeksForGeeks** - Solved 200+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/user_dkbj/profile/)
+- **GeeksForGeeks** - Solved 400+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/user_dkbj/profile/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AditiDey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
