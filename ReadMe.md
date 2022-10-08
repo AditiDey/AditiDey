@@ -22,10 +22,15 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 - **GeeksForGeeks** - Solved 400+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/user_dkbj/profile/)
 
 # 📊 GitHub Stats:
+
+<h2 aligh= "center">
 ![](https://github-readme-stats.vercel.app/api?username=AditiDey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AditiDey&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiDey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</h2>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
