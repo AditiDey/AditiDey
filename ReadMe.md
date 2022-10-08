@@ -21,6 +21,14 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 - **LeetCode** - Solved 500+ questions | [Profile Link](https://leetcode.com/aditidey1610/)
 - **GeeksForGeeks** - Solved 400+ questions | [Profile Link](https://auth.geeksforgeeks.org/user/user_dkbj/profile/)
 
+## Resume
+<h3 align = "center">
+<a href="https://drive.google.com/file/d/1jOS3xVmzdMdN7wcbaAzlaZG4oBUf9_8t/view?usp=drivesdk">
+<img src="https://media.discordapp.net/attachments/1026675609369325649/1028221623314153502/screencapture-file-C-Users-lenovo-Downloads-Aditi-Resume-pdf-2022-10-07-22_17_20.png?width=283&height=406" style="width: auto; max-width: 100%; height: auto" title="Click to view pdf" />
+</h3>
+
+[Resume Link](https://drive.google.com/file/d/1jOS3xVmzdMdN7wcbaAzlaZG4oBUf9_8t/view?usp=drivesdk)
+  
 # 📊 GitHub Stats:
 
 <h2 aligh= "center">
