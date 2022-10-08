@@ -24,7 +24,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 # Resume
 <h3 align = "center">
 <a href="https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view">
-<img src="[https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view" style="width: 50; height: auto" title="Click to view pdf" />
+<img src="https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view" style="width: 50; height: auto" title="Click to view pdf" />
 </h3>
 
 [Resume Link](https://drive.google.com/file/d/1jOS3xVmzdMdN7wcbaAzlaZG4oBUf9_8t/view?usp=drivesdk)
