@@ -24,7 +24,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 # Resume
 <h3 align = "center">
 <a href="https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view">
-<img src="[https://drive.google.com/file/d/1tnFZpOyJgrFpm9CpYihsp8YGwN-gZ8de/view?usp=sharing](https://media.discordapp.net/attachments/1026675609369325649/1028226450169548800/Aditi_Dey_Resum.jpg?width=500&height=706)" style="width: 50; height: auto" title="Click to view pdf" />
+<img src="(https://media.discordapp.net/attachments/1026675609369325649/1028226450169548800/Aditi_Dey_Resum.jpg?width=500&height=706)" style="width: 100; height: auto" title="Click to view pdf" />
 </h3>
 
 [Resume Link](https://drive.google.com/file/d/1jOS3xVmzdMdN7wcbaAzlaZG4oBUf9_8t/view?usp=drivesdk)
