@@ -24,6 +24,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 # 📊 GitHub Stats:
 
 <h2 aligh= "center">
+
 ![](https://github-readme-stats.vercel.app/api?username=AditiDey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AditiDey&theme=dark&hide_border=false)<br/>
