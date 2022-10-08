@@ -7,6 +7,7 @@ I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in In
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-dey-a9a2661a9/) 
+ [![Mail Badge](https://img.shields.io/badge/-vaneelakhatri09-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aditidey7080@gmail.com)
 <br>
 
 
