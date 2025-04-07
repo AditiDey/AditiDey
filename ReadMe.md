@@ -3,7 +3,9 @@
 <img src="https://media.discordapp.net/attachments/1026675609369325649/1027976617215135755/unknown.png" width="700"/>
 
 # 💫 About Me:
-I am a final year student of Techno Main Saltlake ,Kolkata persuing B.Tech in Information Technology ,graduating in year 2023. I have an overall 9.02 gpa till 6th semester. I am an aspiring  Software Developer.I have made few projects on Web Development and Machine Learning .I am comfortable with C++ for Data Structures and Algorithms. I have solved over 1000+ questions on leetcode and geeksforgeeks.
+
+I am having a work experience of 2 years in MUFG Securities where I am currently developing UI features in etrading project and Fintech startup Omnifi AI Private limited and have Worked on their Saas project which provides Loan management services to NBFC partners where I have used micro-frontend architecture and single spa layout .I have worked with Typescript for backend- frontend servers, Redux toolkit for state management I have strong problem solving skills and understanding of infrastructure design. I led frontend projects, handled API integration, and developed backend queries, contributing to user management, financial documents, and P2P lending projects. Apart from this have also worked on other projects like MSME , Colending middleware .
+I am proficient in tech stack JavaScript, Typescript,HTML,CSS,React.js,Redux,Node.js,Express.js, and C++ ,Springboot,Mongodb, PostgreSQL.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-dey-a9a2661a9/) 
